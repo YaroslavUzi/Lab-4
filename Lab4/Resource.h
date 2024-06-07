@@ -1,0 +1,23 @@
+﻿#ifndef RESOURCE_H
+#define RESOURCE_H
+
+#define IDC_BUTTON_OK 1001
+#define IDC_BUTTON_CANCEL 1002
+#define IDC_SCROLLBAR1 1003
+#define IDC_EDIT1 1004
+#define IDC_BUTTON_NEXT 1005
+#define IDC_BUTTON_BACK 1006
+#define IDC_LIST1 1007
+
+#define IDD_DIALOG1 2001
+#define IDD_DIALOG2 2002
+#define IDD_DIALOG3 2003
+
+#define IDR_MAINMENU 3001
+#define IDM_EXIT 40001
+#define IDM_ABOUT 40002
+#define IDD_ABOUTBOX 5001
+
+#define IDC_STATIC -1 // Додайте це визначення для IDC_STATIC
+
+#endif // RESOURCE_H
